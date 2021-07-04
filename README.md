@@ -7,6 +7,6 @@ This reposetary contains the implement detais abount the paper" A Fast and Preci
 calculation, (b) shows the step of cluster classifying according to extracted contours, the solid blue points in each segment
 represent contours. (c) shows a real-world traffic scene on the road, there are various clusters on it, the cluster in black rectangle
 represents a symmetrical-like cluster.
-<div align=center><img width="150" height="150" alt="Geometric classifier" src="https://github.com/sunjingnjupt/PE-CHL-v2/blob/main/image/classifier.jpg"/></div>
+<div align=center><img width="99%" height="100%" alt="Geometric classifier" src="https://github.com/sunjingnjupt/PE-CHL-v2/blob/main/image/classifier.jpg"/></div>
 
 
